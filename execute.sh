@@ -1,7 +1,7 @@
 cd src
 
-javac -d classes EFrame.java
+javac -d ../bin EFrame.java
 
-cd classes
+cd ../bin
 
 java EFrame
